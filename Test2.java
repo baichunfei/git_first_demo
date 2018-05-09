@@ -6,5 +6,8 @@ public class Test2 {
 	}
 	"haha    git  change test1"
 	"haha    git  change test2"
+	"haha    git  change test3"
 	
 }
+
+
